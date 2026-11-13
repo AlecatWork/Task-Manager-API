@@ -5,3 +5,5 @@ __pycache__/
 .DS_Store
 app.db
 notification_log.txt
+.pytest_cache/
+.venv/
